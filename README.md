@@ -22,6 +22,13 @@ and lead a team that keeps production boringly stable.
 - 📡 Shipping **[`xray-health-exporter`](https://github.com/batonogov/xray-health-exporter)** — a Prometheus exporter that health-checks Xray-core tunnels (VLESS / VMess / Trojan / Shadowsocks) with the core embedded as a library.
 - 👨‍💻 Leading a DevOps team and keeping the infra quiet at 3 AM.
 
+<div align="center">
+
+![Open to collaborate](https://img.shields.io/badge/Open%20to-collaborate-7AA2F7?style=flat-square)  
+Mentorship · open source · DevOps chats
+
+</div>
+
 ---
 
 ### 🤖 AI-Native Workflow
@@ -47,8 +54,22 @@ It runs locally, in my editor, in my loop.
 <strong>Infrastructure & DevOps</strong><br>
 <img src="https://skillicons.dev/icons?i=terraform,kubernetes,docker,go,prometheus,gitlab,linux&theme=dark&perline=10" alt="infra stack" />
 <br>
-<img height="48" src="https://cdn.simpleicons.org/helm" alt="Helm" />&nbsp;&nbsp;
-<img height="48" src="https://cdn.simpleicons.org/talos" alt="Talos" />
+<strong>Platform & GitOps</strong><br>
+<img height="48" src="https://cdn.simpleicons.org/helm" alt="Helm" />&nbsp;
+<img height="48" src="https://cdn.simpleicons.org/talos" alt="Talos" />&nbsp;
+<img height="48" src="https://cdn.simpleicons.org/proxmox" alt="Proxmox" />&nbsp;
+<img height="48" src="https://cdn.simpleicons.org/argo" alt="ArgoCD" />&nbsp;
+<img height="48" src="https://cdn.simpleicons.org/ansible" alt="Ansible" />&nbsp;
+<img height="48" src="https://cdn.simpleicons.org/packer" alt="Packer" />
+<br>
+<strong>Observability & Storage</strong><br>
+<img height="48" src="https://cdn.simpleicons.org/grafana" alt="Grafana" />&nbsp;
+<img height="48" src="https://cdn.simpleicons.org/longhorn" alt="Longhorn" />&nbsp;
+<img height="48" src="https://cdn.simpleicons.org/ceph" alt="Ceph" />&nbsp;
+<img height="48" src="https://cdn.simpleicons.org/rook" alt="Rook" />&nbsp;
+<img height="48" src="https://cdn.simpleicons.org/vault" alt="Vault" />
+<br>
+<sub>Loki · Alertmanager · Alloy · SOPS+age · Ansible Vault → migrating to HashiCorp Vault</sub>
 
 </div>
 
@@ -78,6 +99,7 @@ It runs locally, in my editor, in my loop.
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=batonogov&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Fedor's GitHub Stats" />
 <img height="170" src="https://streak-stats.demolab.com/?user=batonogov&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=batonogov&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=HTML,CSS,Makefile,Dockerfile" alt="Top Languages" />
 
 <br>
 
