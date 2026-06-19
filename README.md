@@ -29,7 +29,8 @@ and lead a team that keeps production boringly stable.
 
 <a href="https://github.com/earendil-works/pi"><img src="https://avatars.githubusercontent.com/u/207902832?v=4" width="56" alt="pi" /></a>
 
-I code with **[pi](https://github.com/earendil-works/pi)** — a terminal coding agent.
+I code with **[pi](https://github.com/earendil-works/pi)** — a terminal coding agent,
+powered by **GLM** (Zhipu / Z.ai) for the heavy reasoning.
 Most of my workflow is agent-assisted: refactors, infra generation, code review.
 It runs locally, in my editor, in my loop.
 
@@ -44,7 +45,8 @@ It runs locally, in my editor, in my loop.
 <strong>Infrastructure & DevOps</strong><br>
 <img src="https://skillicons.dev/icons?i=terraform,kubernetes,docker,go,prometheus,gitlab,linux&theme=dark&perline=10" alt="infra stack" />
 <br>
-<img src="https://img.shields.io/badge/Helm-277A9F?style=flat-square&logo=helm&logoColor=white" alt="Helm" />
+<img height="48" src="https://cdn.simpleicons.org/helm" alt="Helm" />&nbsp;&nbsp;
+<img height="48" src="https://cdn.simpleicons.org/talos" alt="Talos" />
 
 <br><br>
 
