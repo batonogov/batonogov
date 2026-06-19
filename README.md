@@ -19,6 +19,7 @@ and lead a team that keeps production boringly stable.
 
 - 🔭 Building **[`pine`](https://github.com/batonogov/pine)** — a native SwiftUI + AppKit code editor for macOS. Zero Electron.
 - 🔧 Maintaining **[`terraform-provider-threexui`](https://github.com/batonogov/terraform-provider-threexui)** — manage VPN panels (Xray / VLESS / Reality / WireGuard) as code.
+- 📡 Shipping **[`xray-health-exporter`](https://github.com/batonogov/xray-health-exporter)** — a Prometheus exporter that health-checks Xray-core tunnels (VLESS / VMess / Trojan / Shadowsocks) with the core embedded as a library.
 - 👨‍💻 Leading a DevOps team and keeping the infra quiet at 3 AM.
 
 ---
@@ -30,7 +31,7 @@ and lead a team that keeps production boringly stable.
 <a href="https://github.com/earendil-works/pi"><img src="https://avatars.githubusercontent.com/u/207902832?v=4" width="56" alt="pi" /></a>
 
 I code with **[pi](https://github.com/earendil-works/pi)** — a terminal coding agent —
-paired with **GLM** (Zhipu / Z.ai) for the heavy reasoning.
+paired with **[GLM-5](https://github.com/zai-org/GLM-5)** (Zhipu / Z.ai) for the heavy reasoning.
 Two separate tools: pi drives the loop, GLM is the model behind it.
 Most of my workflow is agent-assisted: refactors, infra generation, code review.
 It runs locally, in my editor, in my loop.
