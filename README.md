@@ -49,13 +49,6 @@ It runs locally, in my editor, in my loop.
 <img height="48" src="https://cdn.simpleicons.org/helm" alt="Helm" />&nbsp;&nbsp;
 <img height="48" src="https://cdn.simpleicons.org/talos" alt="Talos" />
 
-<br><br>
-
-<strong>Native macOS</strong><br>
-<img height="48" src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" alt="Swift" />&nbsp;&nbsp;
-<img height="48" src="https://img.shields.io/badge/SwiftUI-F05138?style=flat-square&logo=swift&logoColor=white" alt="SwiftUI" />&nbsp;&nbsp;
-<img height="48" src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=macos&logoColor=white" alt="macOS" />
-
 </div>
 
 ---
