@@ -15,7 +15,11 @@ and lead a team that keeps production boringly stable.
 
 ---
 
+<div align="center">
+
 ### 🟢 Currently
+
+</div>
 
 - 🔭 Building **[`pine`](https://github.com/batonogov/pine)** — a native SwiftUI + AppKit code editor for macOS. Zero Electron.
 - 🔧 Maintaining **[`terraform-provider-threexui`](https://github.com/batonogov/terraform-provider-threexui)** — manage VPN panels (Xray / VLESS / Reality / WireGuard) as code.
@@ -31,9 +35,9 @@ Mentorship · open source · DevOps chats
 
 ---
 
-### 🤖 AI-Native Workflow
-
 <div align="center">
+
+### 🤖 AI-Native Workflow
 
 <a href="https://github.com/earendil-works/pi"><img src="https://avatars.githubusercontent.com/u/207902832?v=4" width="56" alt="pi" /></a>
 
@@ -47,9 +51,9 @@ It runs locally, in my editor, in my loop.
 
 ---
 
-### 🛠 Tech Stack
-
 <div align="center">
+
+### 🛠 Tech Stack
 
 <strong>Infrastructure & DevOps</strong><br>
 <img src="https://skillicons.dev/icons?i=terraform,kubernetes,docker,go,prometheus,gitlab,linux&theme=dark&perline=10" alt="infra stack" />
