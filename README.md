@@ -75,24 +75,6 @@ It runs locally, in my editor, in my loop.
 
 ---
 
-### 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/batonogov/pine">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=batonogov&repo=pine&theme=tokyonight&hide_border=true" alt="pine" />
-</a>
-<a href="https://github.com/batonogov/terraform-provider-threexui">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=batonogov&repo=terraform-provider-threexui&theme=tokyonight&hide_border=true" alt="terraform-provider-threexui" />
-</a>
-<a href="https://github.com/batonogov/xray-health-exporter">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=batonogov&repo=xray-health-exporter&theme=tokyonight&hide_border=true" alt="xray-health-exporter" />
-</a>
-
-</div>
-
----
-
 <div align="center">
 
 ### 📊 GitHub Stats
