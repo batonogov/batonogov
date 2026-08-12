@@ -52,15 +52,7 @@ and build native tools for agent-driven development.
 
 <div align="center">
 
-<strong>Core</strong><br><br><img src="https://skillicons.dev/icons?i=terraform,kubernetes,docker,go,swift,bash,prometheus,gitlab,linux&theme=dark&perline=10" alt="Terraform, Kubernetes, Docker, Go, Swift, Bash, Prometheus, GitLab, and Linux" />
-
-<br><br>
-
-<strong>Platform & GitOps</strong><br><br><img height="48" src="https://cdn.simpleicons.org/opentofu" alt="OpenTofu" />&nbsp;&nbsp;<img height="48" src="https://cdn.simpleicons.org/helm" alt="Helm" />&nbsp;&nbsp;<img height="48" src="https://cdn.simpleicons.org/talos" alt="Talos" />&nbsp;&nbsp;<img height="48" src="https://cdn.simpleicons.org/proxmox" alt="Proxmox" />&nbsp;&nbsp;<img height="48" src="https://cdn.simpleicons.org/argo" alt="Argo CD" />&nbsp;&nbsp;<img height="48" src="https://cdn.simpleicons.org/ansible" alt="Ansible" />&nbsp;&nbsp;<img height="48" src="https://cdn.simpleicons.org/packer" alt="Packer" />
-
-<br><br>
-
-<strong>Observability, storage & security</strong><br><br><img height="48" src="https://cdn.simpleicons.org/grafana" alt="Grafana" />&nbsp;&nbsp;<img height="48" src="https://cdn.simpleicons.org/longhorn" alt="Longhorn" />&nbsp;&nbsp;<img height="48" src="https://cdn.simpleicons.org/ceph" alt="Ceph" />&nbsp;&nbsp;<img height="48" src="https://cdn.simpleicons.org/rook" alt="Rook" />&nbsp;&nbsp;<img height="48" src="https://cdn.simpleicons.org/vault" alt="HashiCorp Vault" />
+<strong>Core</strong><br><img src="https://skillicons.dev/icons?i=terraform,kubernetes,docker,go,swift,bash,prometheus,gitlab,linux&theme=dark&perline=10" alt="Terraform, Kubernetes, Docker, Go, Swift, Bash, Prometheus, GitLab, and Linux" /><br><br><strong>Platform & GitOps</strong><br><img height="48" src="https://cdn.simpleicons.org/opentofu" alt="OpenTofu" />&nbsp;&nbsp;<img height="48" src="https://cdn.simpleicons.org/helm" alt="Helm" />&nbsp;&nbsp;<img height="48" src="https://cdn.simpleicons.org/talos" alt="Talos" />&nbsp;&nbsp;<img height="48" src="https://cdn.simpleicons.org/proxmox" alt="Proxmox" />&nbsp;&nbsp;<img height="48" src="https://cdn.simpleicons.org/argo" alt="Argo CD" />&nbsp;&nbsp;<img height="48" src="https://cdn.simpleicons.org/ansible" alt="Ansible" />&nbsp;&nbsp;<img height="48" src="https://cdn.simpleicons.org/packer" alt="Packer" /><br><br><strong>Observability, storage & security</strong><br><img height="48" src="https://cdn.simpleicons.org/grafana" alt="Grafana" />&nbsp;&nbsp;<img height="48" src="https://cdn.simpleicons.org/longhorn" alt="Longhorn" />&nbsp;&nbsp;<img height="48" src="https://cdn.simpleicons.org/ceph" alt="Ceph" />&nbsp;&nbsp;<img height="48" src="https://cdn.simpleicons.org/rook" alt="Rook" />&nbsp;&nbsp;<img height="48" src="https://cdn.simpleicons.org/vault" alt="HashiCorp Vault" />
 
 </div>
 
