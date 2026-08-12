@@ -43,20 +43,31 @@ architecture, trade-offs, and production responsibility human-owned.
 
 ### 🛠 Tech stack
 
-<strong>Infrastructure & platform</strong><br>
-Terraform · OpenTofu · Kubernetes · Helm · Argo CD · Docker · Packer · Ansible<br>
-Talos Linux · Proxmox · GitLab CI/CD
-
+<strong>Infrastructure & development</strong><br>
+<img src="https://skillicons.dev/icons?i=terraform,kubernetes,docker,go,swift,prometheus,gitlab,linux&theme=dark&perline=10" alt="Terraform, Kubernetes, Docker, Go, Swift, Prometheus, GitLab, and Linux" />
 <br>
+<sub>OpenTofu · SwiftUI · AppKit · Bash · HCL</sub>
 
-<strong>Software</strong><br>
-Go · Swift · SwiftUI · AppKit · Bash · HCL
+<br><br>
 
-<br>
+<strong>Platform & GitOps</strong><br>
+<img height="48" src="https://cdn.simpleicons.org/helm" alt="Helm" />&nbsp;
+<img height="48" src="https://cdn.simpleicons.org/talos" alt="Talos" />&nbsp;
+<img height="48" src="https://cdn.simpleicons.org/proxmox" alt="Proxmox" />&nbsp;
+<img height="48" src="https://cdn.simpleicons.org/argo" alt="Argo CD" />&nbsp;
+<img height="48" src="https://cdn.simpleicons.org/ansible" alt="Ansible" />&nbsp;
+<img height="48" src="https://cdn.simpleicons.org/packer" alt="Packer" />
+
+<br><br>
 
 <strong>Observability, storage & secrets</strong><br>
-Prometheus · Grafana · Loki · Alloy · Alertmanager<br>
-Ceph · Rook · Longhorn · HashiCorp Vault · SOPS · age
+<img height="48" src="https://cdn.simpleicons.org/grafana" alt="Grafana" />&nbsp;
+<img height="48" src="https://cdn.simpleicons.org/longhorn" alt="Longhorn" />&nbsp;
+<img height="48" src="https://cdn.simpleicons.org/ceph" alt="Ceph" />&nbsp;
+<img height="48" src="https://cdn.simpleicons.org/rook" alt="Rook" />&nbsp;
+<img height="48" src="https://cdn.simpleicons.org/vault" alt="HashiCorp Vault" />
+<br>
+<sub>Loki · Alloy · Alertmanager · SOPS · age</sub>
 
 </div>
 
