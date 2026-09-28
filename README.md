@@ -2,9 +2,17 @@
 
 Senior DevOps Engineer & Team Lead. Moscow 🇷🇺
 
-I design platforms, turn operational APIs into Terraform resources, and build
-native tools for agent-driven development. Coding agents are part of my daily
-loop — architecture, trade-offs, and production responsibility stay human-owned.
+## A bit of my story
+
+I started in tech support back in 2008, then spent years working with AV and
+conference systems — Crestron, Bosch, simultaneous interpretation. The turning
+point came when a colleague and I built our own meeting-room control system in
+Python and shipped it on Docker Swarm — a home-grown Crestron alternative.
+After that I switched jobs and became a full-time DevOps engineer.
+
+These days everything I run lives on bare metal — from installing Proxmox and
+Talos on the servers themselves and all the way up the stack. I lead a team of
+three: task planning and tracking, mentoring, architecture, and processes.
 
 ## Projects
 
@@ -26,6 +34,22 @@ loop — architecture, trade-offs, and production responsibility stay human-owne
   and a [Homebrew tap](https://github.com/batonogov/homebrew-tap) that make my
   projects easy to install and operate.
 
+## Open source
+
+I rely on open source at work and in my personal projects, so I give back.
+I publish the tools I build for myself — Terraform providers, Pine, exporters,
+Helm charts — and send fixes upstream to the projects I use, including
+[bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox),
+[SwiftTerm](https://github.com/migueldeicaza/SwiftTerm),
+[cozystack](https://github.com/cozystack/cozystack), and
+[homebrew-cask](https://github.com/Homebrew/homebrew-cask).
+
+## How I work
+
+Coding agents are part of my daily loop — from scoping and implementation to
+tests and review. Architecture, trade-offs, and production responsibility stay
+human-owned.
+
 ## Stack
 
 Terraform · OpenTofu · Kubernetes · Talos · Argo CD · Ansible · Go · Swift ·
@@ -36,5 +60,8 @@ Prometheus · Grafana · Vault · Proxmox · Linux
 - Telegram: [@fedor_batonogov](https://t.me/fedor_batonogov)
 - Email: [fedor@batonogov.ru](mailto:fedor@batonogov.ru)
 
-Open to open-source collaboration, mentorship, and DevOps conversations.
-Off duty, you'll probably find me on a PlayStation 5.
+---
+
+> "Be realistic — demand the impossible." — Che Guevara
+
+Off duty, you'll probably find me on a PlayStation 5 or a Nintendo Switch.
