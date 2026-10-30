@@ -26,14 +26,8 @@ I lead a team of three across planning, mentoring, architecture, and processes.
 
 ## Upstream contributions
 
-Selected merged changes in projects I use:
-
-- **Cozystack** — [custom CA support for a self-hosted Talos Image Factory in CDI](https://github.com/cozystack/cozystack/pull/3797).
-- **Terraform Provider Harbor** — [reliable LDAP group membership lifecycle](https://github.com/goharbor/terraform-provider-harbor/pull/592),
-  including drift detection, import, update, and destroy.
-- **SeaweedFS** — [resource-scoped authorization for delegated service-account creation](https://github.com/seaweedfs/seaweedfs/pull/11736).
-- **NetBird Helm chart** — [correct OAuth callback URLs and configuration rollouts on upgrades](https://github.com/helmforgedev/charts/pull/1533).
-- **SwiftTerm** — [independent hyperlink underline colors across rendering paths](https://github.com/migueldeicaza/SwiftTerm/pull/772).
+I contribute fixes and improvements to the open-source projects I use.
+[Browse my merged upstream PRs](https://github.com/pulls?q=is%3Apr+author%3Abatonogov+is%3Amerged+-user%3Abatonogov).
 
 ## A bit of my story
 
