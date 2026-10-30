@@ -1,7 +1,7 @@
 # Fedor Batonogov
 
 Senior DevOps Engineer & Team Lead building bare-metal Kubernetes platforms and
-infrastructure tooling. Moscow 🇷🇺
+infrastructure tooling.
 
 From bare-metal provisioning with Proxmox and Talos to platform architecture and delivery.
 I lead a team of three across planning, mentoring, architecture, and processes.
@@ -46,8 +46,8 @@ Architecture, trade-offs, and production responsibility stay human-owned.
 
 ## Stack
 
-Terraform · OpenTofu · Kubernetes · Talos · Argo CD · Ansible · Go · Swift ·
-Prometheus · Grafana · Vault · Proxmox · Linux
+Terraform · OpenTofu · Kubernetes · Talos · Cozystack · Argo CD · Flux · Ansible ·
+Go · Python · Swift · Prometheus · Grafana · Vault · OpenBao · Proxmox · Linux
 
 ## Contact
 
