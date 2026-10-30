@@ -4,7 +4,7 @@ Senior DevOps Engineer & Team Lead building bare-metal Kubernetes platforms and
 infrastructure tooling.
 
 From bare-metal provisioning with Proxmox and Talos to building and delivering platforms with Cozystack.
-I lead a team of three across planning, mentoring, architecture, and processes.
+I lead a DevOps team across planning, mentoring, architecture, and processes.
 
 [Projects](#projects) · [Upstream contributions](#upstream-contributions) · [Contact](#contact)
 
